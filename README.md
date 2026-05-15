@@ -25,7 +25,9 @@ This project implements a simple but effective object-following behavior. The ro
 
 ## Demonstration
 
-<video src="assets/object_follower_demo.mp4" width="600" controls>
+https://github.com/Mohammed159159/object_follower_robot/raw/main/assets/object_follower_demo.mp4
+
+<video src="assets/object_follower_demo.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
